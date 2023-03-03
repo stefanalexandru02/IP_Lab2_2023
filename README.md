@@ -1,7 +1,7 @@
 # IP Lab2 2023
-Repo for second lab of IP
-
+Repo for second lab of IP <br />
+<br />
 # Team members
-Gavrila Maria-Denisa
-Iacob Eliza-Maria
-Virna Stefan-Alexandru
+Gavrila Maria-Denisa <br />
+Iacob Eliza-Maria <br />
+Virna Stefan-Alexandru <br />
